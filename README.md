@@ -17,7 +17,7 @@ I'm a software engineer who is passionate about web development.
   + **📞 +20 1014542335**
   + **📩 [marwagamal443@gmail.com](marwagamal443@gmail.com)**
   +  **<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dina-elorbany" height="20" width="30" />
-  </a> [https://www.linkedin.com/in/marwa-gamal-9b45b91ab/]([marwagamal443@gmail.com](https://www.linkedin.com/in/marwa-gamal-9b45b91ab/))**
+  </a>  [www.linkedin.com/in/marwa-gamal-9b45b91ab](www.linkedin.com/in/marwa-gamal-9b45b91ab) **
 
 
 ----

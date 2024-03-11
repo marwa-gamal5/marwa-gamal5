@@ -1,7 +1,7 @@
 
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-<h2> Hey there! I'm Marwa.</h2>
+<h2> Hey there!👋 I'm Marwa.</h2>
 
 <img width="200" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
@@ -10,12 +10,12 @@
 
 I'm a software engineer who is passionate about web development.
 
-- 🎓 &nbsp; Graduated From : Faculty of computer and information - Assiut University.
-- 💼 &nbsp; Working as an Frontend Developer at AITSP Egypt.
-- 📚 I’m currently learning **TypeScript, Redux & Redux Toolkit, Problem Solving, Data Structures, and Algorithms**
+- 🎓 &nbsp; **Graduated From** : Faculty of computer and information - Assiut University.
+- 💼 &nbsp; **Working as** an Frontend Developer (React JS)  at AITSP Egypt.
+- 📚 **I’m currently learning**TypeScript, Redux & Redux Toolkit, Problem Solving, Data Structures, and Algorithms
 - 📩 Reach me on:
   + **📞 +20 1014542335**
-  + **[📧 marwagamal443@gmail.com](https://www.marwagamal443@gmail.com)**
+  + **[💬 marwagamal443@gmail.com](https://www.marwagamal443@gmail.com)**
   + **[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dina-elorbany" height="20" width="30" />](https://www.linkedin.com/in/marwa-gamal-9b45b91ab)**
   
 
@@ -44,10 +44,7 @@ I'm a software engineer who is passionate about web development.
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
-  
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a> 
+ 
   
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
@@ -95,18 +92,5 @@ I'm a software engineer who is passionate about web development.
 </p>
                 
 ----
-- ⚙️ &nbsp;
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
-- 🔧 &nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-
-  
-<br/>
-
-------------------------------------------------------------------------------------------------------
 

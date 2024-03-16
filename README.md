@@ -27,7 +27,7 @@ I'm a software engineer who is passionate about web development.
   </a>
 
  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
-    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/62768749/313431769-3a76cfaf-24d6-4db9-a49a-9b6a6224c985.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240316%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240316T213040Z&X-Amz-Expires=300&X-Amz-Signature=6aa0663030acecc1048d009250219817f5ea47a61d7badbaf036c0cd7adfaea0&X-Amz-SignedHeaders=host&actor_id=62768749&key_id=0&repo_id=770287548" alt="next" width="40" height="40"/>
+    <img src="https://github.com/marwa-gamal5/marwa-gamal5/assets/62768749/b704d55d-db22-4b51-be01-f6c5c988c811" alt="next" width="40" height="40"/>
   </a>
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>

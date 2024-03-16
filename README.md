@@ -4,7 +4,7 @@
 <h2> Hey there!👋 I'm Marwa.</h2>
 
 
-<div align= "center"><img  align= "center" alt="Coding" width="50%" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif"/></div>
+<img  align= "right" alt="Coding" width="50%" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif"/>
 
 <h3> 👩🏻‍💻 &nbsp;About Me </h3>
 

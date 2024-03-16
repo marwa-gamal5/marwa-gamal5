@@ -1,6 +1,3 @@
-
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
-
 <h2> Hey there!👋 I'm Marwa.</h2>
 
 
@@ -67,24 +64,34 @@ I'm a software engineer who is passionate about web development.
   </a>
   
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="bootstrap logo"  />
   </a>
   
-  <a href="https://materializecss.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/>
-  </a>
+
   
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
+ <a href="https://github.com/" target="_blank" rel="noreferrer">
+    
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40 height="40"   />
+  </a>
+ 
   
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
-  
-  <a href="https://www.framer.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+
+   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="40" height="40 alt="python logo"  />
   </a>
+   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"width="40" height="40 alt="django logo"  />
+     
+  </a>
+
+  
+
 
 
 

@@ -1,4 +1,8 @@
-<h2> Hey there!👋 I'm Marwa.</h2>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=marwa-gamal5.marwa-gamal5" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=500&size=30&pause=1000&color=EB638F&random=false&width=435&lines=Hi+There!+👋;+I'm+Marwa+Gamal!;" />
+</h1>
 
 
 <img  align= "right" alt="Coding" width="50%" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif"/>

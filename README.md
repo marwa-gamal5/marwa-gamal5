@@ -25,7 +25,10 @@ I'm a software engineer who is passionate about web development.
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
-  
+
+ <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
+    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/62768749/313431769-3a76cfaf-24d6-4db9-a49a-9b6a6224c985.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240316%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240316T213040Z&X-Amz-Expires=300&X-Amz-Signature=6aa0663030acecc1048d009250219817f5ea47a61d7badbaf036c0cd7adfaea0&X-Amz-SignedHeaders=host&actor_id=62768749&key_id=0&repo_id=770287548" alt="next" width="40" height="40"/>
+  </a>
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
   </a>
@@ -61,6 +64,9 @@ I'm a software engineer who is passionate about web development.
   
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  </a>
+    <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer">
+    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/62768749/313431853-0015a544-797f-4a3b-a653-7e1adebf7156.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240316%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240316T213138Z&X-Amz-Expires=300&X-Amz-Signature=718b7db22fb30caafac97e8761259da18737b1d5b6d30949e3b14b718431f6a9&X-Amz-SignedHeaders=host&actor_id=62768749&key_id=0&repo_id=770287548" alt="material ui" width="40" height="40"/>
   </a>
   
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">

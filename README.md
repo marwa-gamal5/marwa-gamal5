@@ -3,8 +3,8 @@
 
 <h2> Hey there!👋 I'm Marwa.</h2>
 
-<img width="200" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
+<div align= "center"><img  align= "center" alt="Coding" width="50%" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif"/></div>
 
 <h3> 👩🏻‍💻 &nbsp;About Me </h3>
 

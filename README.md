@@ -14,6 +14,7 @@ I'm a software engineer who is passionate about web development.
   + **📞 +20 1014542335**
   + **[💬 marwagamal443@gmail.com](https://www.marwagamal443@gmail.com)**
   + **[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dina-elorbany" height="20" width="30" /> LinkrdIn](https://www.linkedin.com/in/marwa-gamal-9b45b91ab)**
+<br>
   
 
 
@@ -66,7 +67,7 @@ I'm a software engineer who is passionate about web development.
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
     <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer">
-    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/62768749/313431853-0015a544-797f-4a3b-a653-7e1adebf7156.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240316%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240316T213138Z&X-Amz-Expires=300&X-Amz-Signature=718b7db22fb30caafac97e8761259da18737b1d5b6d30949e3b14b718431f6a9&X-Amz-SignedHeaders=host&actor_id=62768749&key_id=0&repo_id=770287548" alt="material ui" width="40" height="40"/>
+    <img src="https://github.com/marwa-gamal5/marwa-gamal5/assets/62768749/7fa00a13-f091-4fbd-884d-d4155b54042d" alt="material ui" width="40" height="40"/>
   </a>
   
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">

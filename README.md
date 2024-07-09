@@ -13,7 +13,7 @@ I'm a software engineer who is passionate about web development.
 
 - 🎓 &nbsp; **Graduated From** : Faculty of computer and information - Assiut University.
 - 💼 &nbsp; **Working as** an Frontend Developer (React JS)  at AITSP Egypt.
-- 📚 **I’m currently learning**TypeScript, Redux & Redux Toolkit, Problem Solving, Data Structures, and Algorithms
+
 - 📩 **Reach me on**:
   + **📞 +20 1014542335**
   + **[💬 marwagamal443@gmail.com](https://www.marwagamal443@gmail.com)**

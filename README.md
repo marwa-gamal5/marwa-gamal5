@@ -1,145 +1,125 @@
-# 💫 Welcome to My Digital Universe!
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=marwa-gamal5.marwa-gamal5" />
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hi+There!+%F0%9F%91%8B;I'm+Marwa+Gamal!;Frontend+Developer;React+%7C+Next.js+Enthusiast;Building+Digital+Experiences" alt="Typing SVG" />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=500&size=30&pause=1000&color=EB638F&random=false&width=435&lines=Hi+There!+👋;+I'm+Marwa+Gamal!;" />
+</h1>
+
+
+<img  align= "right" alt="Coding" width="50%" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif"/>
+
+<h3> 👩🏻‍💻 &nbsp;About Me </h3>
+
+I'm a software engineer who is passionate about web development.
+
+- 🎓 &nbsp; **Graduated From** : Faculty of computer and information - Assiut University.
+- 💼 &nbsp; **Working as** an Frontend Developer (React JS)  at AITSP Egypt.
+
+- 📩 **Reach me on**:
+  + **📞 +20 1014542335**
+  + **[💬 marwagamal443@gmail.com](https://www.marwagamal443@gmail.com)**
+  + **[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dina-elorbany" height="20" width="30" /> LinkrdIn](https://www.linkedin.com/in/marwa-gamal-9b45b91ab)**
+<br>
   
-  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=marwa-gamal5.marwa-gamal5&color=6366f1&style=flat-square" />
-</div>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif"/>
 
-## 🚀 About Me
+----
 
-I'm a passionate **Frontend Developer** who crafts exceptional digital experiences with modern web technologies. Currently pursuing my **Premaster in Software Engineering** while building innovative solutions that bridge creativity and functionality.
+<h3 align="center">Languages and Tools:</h3>
 
-### 🎯 Current Focus
-- 🔭 **Working at**: UTO Services™ (Remote) & AITSP Cairo
-- 🎓 **Education**: Premaster in Software Engineering @ Helwan University
-- 🌱 **Learning**: Advanced Three.js, GSAP Animations, and Next.js 14
-- 💡 **Interests**: 3D Web Experiences, Performance Optimization, UI/UX Design
+<p align="center">
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
 
-### 📍 Background
-- 🎓 **Graduate**: Computer & Information Science - Assiut University (2019-2023)
-- 💼 **Experience**: 2+ years in Frontend Development
-- 🌍 **Location**: Cairo, Egypt
-
----
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-### Frontend Frameworks & Core
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte" />
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vite" />
-</p>
-
-### Styling & UI Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=tailwind,sass,bootstrap" />
-  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" />
-</p>
-
-### Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,django" />
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
-</p>
-
-### Animation & 3D Graphics
-<p>
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-</p>
-
-### Tools & Development
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,figma" />
-  <img src="https://skillicons.dev/icons?i=vscode,postman,linux,vercel,netlify" />
-</p>
-
-</div>
-
----
-
-## 💼 Professional Journey
-
-### 🌟 **UTO Services™** | Frontend Developer *(Oct 2024 - Present)*
-- 🚀 Building dynamic web applications with **React.js** and **JavaScript**
-- 🎨 Creating immersive 3D experiences using **Three.js**
-- ⚡ Implementing smooth animations with **GSAP**
-- 🔧 Optimizing performance through code splitting and lazy loading
-
-### 🏢 **AITSP** | Frontend Developer *(Jul 2023 - Feb 2025)*
-- 💻 Developed responsive applications using **React.js**, **Redux Toolkit**
-- 🎯 Integrated RESTful APIs for seamless data communication
-- 📱 Created pixel-perfect interfaces with **Material UI** and **Tailwind CSS**
-- 📚 Authored comprehensive technical documentation
-
-### 💡 **Graphicode** | Frontend Developer *(Mar 2024 - Aug 2024)*
-- 🔍 Focused on performance optimization and accessibility
-- 🤝 Collaborated with backend teams for seamless integration
-- 📋 Maintained high coding standards and best practices
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=marwa-gamal5&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=marwa-gamal5&layout=compact&langs_count=8&theme=tokyonight&border_radius=15&hide_border=true&hide=HTML&exclude_repo=github-readme-stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=marwa-gamal5&theme=tokyonight&border_radius=15&hide_border=true" alt="GitHub Streak"/>
-</div>
-
----
-
-## 🎨 Featured Projects
-
-<div align="center">
-
-### 🌟 3D Interactive Portfolio
-*Built with React.js, Three.js, and GSAP*
-
-[![Portfolio](https://img.shields.io/badge/View_Live-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/marwa-gamal5)
-[![Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marwa-gamal5)
-
-### 🛒 E-commerce Platform
-*React.js, Redux Toolkit, Material UI*
-
-[![Live Demo](https://img.shields.io/badge/View_Live-00C896?style=for-the-badge&logo=netlify&logoColor=white)](https://github.com/marwa-gamal5)
-[![Repository](https://img.shields.io/badge/Repository-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marwa-gamal5)
-
-</div>
-
----
-
-## 🌐 Let's Connect!
-
-<div align="center">
+ <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
+    <img src="https://github.com/marwa-gamal5/marwa-gamal5/assets/62768749/b704d55d-db22-4b51-be01-f6c5c988c811" alt="next" width="60" height="60"/>
+  </a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+  </a>
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marwa-gamal-9b45b91ab)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marwagamal443@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marwa-gamal5)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+201014542335)
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+ 
+  
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  </a>
+  
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+  </a>
+  
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  </a>
+    <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/marwa-gamal5/marwa-gamal5/assets/62768749/7fa00a13-f091-4fbd-884d-d4155b54042d" alt="material ui" width="40" height="40"/>
+  </a>
+  
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="bootstrap logo"  />
+  </a>
+  
+   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
 
+
+
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="github logo"  />
+  </a>
+   
+  
+
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+
+   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="40" height="40 alt="python logo"  />
+  </a>
+   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"width="40" height="40 alt="django logo"  />
+     
+  </a>
+
+  
+
+
+
+
+                
+----
+
+<h3 align="center">Stats</h3>
+<div align=center>
+    <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=marwa-gamal5&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=marwa-gamal5&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=marwa-gamal5&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
----
+<br/><br/>
+----
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thank%20You%20For%20Visiting!&fontSize=24&fontColor=fff&animation=twinkling"/>
-</div>
 
-<div align="center">
-  
-  **"Code is poetry written in logic"** ✨
-  
-  <img src="https://komarev.com/ghpvc/?username=marwa-gamal5&style=for-the-badge&color=6366f1" alt="Profile Views"/>
-  
-</div>

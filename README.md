@@ -1,4 +1,4 @@
- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=marwa-gamal5.marwa-gamal5" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=marwa-gamal5.marwa-gamal5" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=500&size=30&pause=1000&color=EB638F&random=false&width=435&lines=Hi+There!+👋;+I'm+Marwa+Gamal!;" />
